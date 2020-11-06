@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "968955299988",
+    "firebase_url": "https://le-chat-8de99.firebaseio.com",
+    "project_id": "le-chat-8de99",
+    "storage_bucket": "le-chat-8de99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968955299988:android:a462f1cf060685ce4e4c81",
+        "android_client_info": {
+          "package_name": "co.harshrivastava.le_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968955299988-6mmra63va06sg2ahaj97trc18fba1asa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.harshrivastava.le_chat",
+            "certificate_hash": "08f4b8ffd64b476d27208e41830dbde945af8358"
+          }
+        },
+        {
+          "client_id": "968955299988-246mi09257784anb04ho1vuhe8vthu2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7JR8LoB-XxTVsb1N3dAsHQXQpjBCqUbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968955299988-246mi09257784anb04ho1vuhe8vthu2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
